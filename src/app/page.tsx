@@ -11,7 +11,7 @@ export default function Home() {
       </div>
       <div className="h-60 flex justify-center items-center">
         <Button className="" variant="contained">
-          <Link href="/modelo">INICIAR</Link>
+          <Link href="/modelos">INICIAR</Link>
         </Button>
       </div>
     </main>
